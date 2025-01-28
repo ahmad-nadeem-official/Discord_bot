@@ -154,7 +154,7 @@ async def on_command_error(ctx, error):
 ---
 
 ## 🖊️ Author
-**Ahmad (Bruce)**
+**Muhammad Ahmad Nadeem**
 
 Feel free to connect for questions or suggestions!
 
